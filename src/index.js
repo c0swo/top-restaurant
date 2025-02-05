@@ -1,0 +1,1 @@
+alert("Hey thanks for visiting Los' Restaurant");
